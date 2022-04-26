@@ -16,14 +16,13 @@ Desarrollador Backend con JavaScript buscando mi primer empleo como programador 
 - JavaScript
 - Terminal
 - Git y Github
-- Node.js
-- Express.js
+- NodeJS
+- Express
 
 #### Contacto
 
-Mándame mensaje a través de [LinkedIn](https://linkedin.com/in/aldosalasrdz).
-
-#### Estadísticas
+- [LinkedIn](https://linkedin.com/in/aldosalasrdz)
+- [Twitter](https://twitter.com/aldosalasrdz)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldosalasrdz&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
