@@ -18,6 +18,8 @@ Desarrollador Backend con JavaScript buscando mi primer empleo como programador 
 - Git y Github
 - NodeJS
 - Express
+- PostgreSQL
+- Sequelize (ORM)
 
 #### Contacto
 
@@ -25,6 +27,12 @@ Desarrollador Backend con JavaScript buscando mi primer empleo como programador 
 - [Twitter](https://twitter.com/aldosalasrdz)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldosalasrdz&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldosalasrdz&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldosalasrdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aldosalasrdz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aldosalasrdz/aldosalasrdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
