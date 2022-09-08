@@ -24,7 +24,6 @@ Desarrollador Backend con JavaScript buscando mi primer empleo como programador 
 #### Contacto
 
 - [LinkedIn](https://linkedin.com/in/aldosalasrdz)
-- [Twitter](https://twitter.com/aldosalasrdz)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldosalasrdz&show_icons=true)
 
