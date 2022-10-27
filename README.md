@@ -1,45 +1,31 @@
 ### ¡Hey 👋! Soy Aldo Salas
 
----
-Backend Developer.
+I am a Backend Developer.
 
-#### Mis proyectos personales
+#### Technologies I use
 
-- [API REST](https://github.com/aldosalasrdz/api_express): API creada con Express. Uso de Joi para validacíon de datos y Boom para manejo de errores.
-- [Simon Dice](https://aldosalasrdz.github.io/Simon-Dice/): Simon dice juego creado con HTML, CSS y JavaScript.
-- [Random numbers](https://aldosalasrdz.github.io/Random-numbers/): Generador de números al azar del 0 al 100 hecho con HTML, CSS y JavaScript.
+https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
+https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white
+https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
+https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white
+https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white
 
-#### Tecnologías que utilizo
+#### Technologies I'm learning
 
-- HTML
-- CSS
-- JavaScript
-- Terminal
-- Git y Github
-- NodeJS
-- Express
-- PostgreSQL
-- Sequelize (ORM)
+https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white
+https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white
+https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
 
-#### Contacto
+#### Contact
 
 - [LinkedIn](https://linkedin.com/in/aldosalasrdz)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldosalasrdz&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldosalasrdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**aldosalasrdz/aldosalasrdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
