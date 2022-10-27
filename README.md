@@ -1,7 +1,7 @@
 ### ¡Hey 👋! Soy Aldo Salas
 
 ---
-Desarrollador Backend con JavaScript buscando mi primer empleo como programador donde pueda aprender y crecer profesionalmente.
+Backend Developer.
 
 #### Mis proyectos personales
 
