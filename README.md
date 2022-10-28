@@ -1,4 +1,4 @@
-### ¡Hey 👋! Soy Aldo Salas
+### ¡Hey 👋! I'm Aldo Salas
 
 I am a Backend Developer.
 
@@ -24,7 +24,7 @@ I am a Backend Developer.
 
 #### Contact
 
-- [LinkedIn](https://linkedin.com/in/aldosalasrdz)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/aldosalasrdz)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldosalasrdz&show_icons=true)
 
