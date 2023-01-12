@@ -24,9 +24,3 @@ I'm a Backend Developer.
 #### Contact
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldosalasrdz/)
-
-#### Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldosalasrdz&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldosalasrdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
