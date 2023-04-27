@@ -1,10 +1,10 @@
-### ¡Hey 👋! I'm Aldo Salas
+### ¡Hey! I'm Aldo Salas 
 
-Student of Software Development Engineering at TecMilenio University.
+Student of Software Development Engineering at Universidad TecMilenio (Mexico).
 
 Interested in specializing as a backend developer. Learning how to build backends using TypeScript and Go, as well as system design and microservices.
 
-Helped translate some source code and documentation for the 'trekhleb/javascript-algorithms' repository, a very popular open source project with more than 169k stars on GitHub.
+Participated in the translation of the 'Linked List' markdown file from the popular [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) repository, which has been used by numerous developers around the world and has more than 169k stars on GitHub. My contribution helped to make this important information about data structures available in Spanish.
 
 #### Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
