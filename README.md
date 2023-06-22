@@ -2,11 +2,11 @@
 
 ## About me:
 
-Student of Software Development Engineering.
+Backend Developer
 
-Interested in specializing as a backend developer. Learning how to build backends using TypeScript and Go, as well as system design and microservices.
+Learning how to build backends using Ruby on Rails, as well as data structures and system design.
 
-Participated in the translation of the 'Linked List' markdown file from the popular [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/linked-list/README.es-ES.md) repository, which has been used by numerous developers around the world and has more than 169k stars on GitHub. My contribution helped to make this important information about data structures available in Spanish.
+Participated in the translation of the 'Linked List' markdown file from the popular [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/linked-list/README.es-ES.md) repository, which has been used by numerous developers around the world and has more than 169k stars on GitHub. Helped to make this important information about data structures available in Spanish.
 
 📍 Based in Monterrey, México
 
