@@ -2,23 +2,20 @@
 
 ## About me:
 
-Backend Developer
+Backend Engineer with Ruby on Rails experience looking for innovative and challenging opportunities.
 
-Learning how to build backends using Ruby on Rails, as well as data structures and system design.
+Currently intern at Vivendo, building a project for Ruby on Rails applications that analyzes and identifies slow queries and requests. Proficient in creating intuitive interfaces using TailwindCSS, prioritizing a good user experience.
 
-Participated in the translation of the 'Linked List' markdown file from the popular [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/linked-list/README.es-ES.md) repository, which has been used by numerous developers around the world and has more than 169k stars on GitHub. Helped to make this important information about data structures available in Spanish.
+Pursuing a degree in Software Development Engineering at Universidad Tecmilenio.
 
-📍 Based in Monterrey, México
 
 ## 💡 Skills
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 
 ## 💬 Contact
 
