@@ -4,10 +4,7 @@
 
 Backend Engineer with Ruby on Rails experience looking for innovative and challenging opportunities.
 
-Currently intern at Vivendo, building a project for Ruby on Rails applications that analyzes and identifies slow queries and requests. Proficient in creating intuitive interfaces using TailwindCSS, prioritizing a good user experience.
-
 Pursuing a degree in Software Development Engineering at Universidad Tecmilenio.
-
 
 ## 💡 Skills
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
